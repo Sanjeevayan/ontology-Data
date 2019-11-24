@@ -1,0 +1,5226 @@
+{
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+  ],
+  "modified": "2019-02-13T08:28:08.440Z",
+  "license": [
+    {
+      "uri": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "notation": [
+        "CC0"
+      ]
+    }
+  ],
+  "languages": [
+    "en"
+  ],
+  "topConcepts": [
+    {
+      "uri": "http://www.wikidata.org/entity/Q16338"
+    }
+  ],
+  "concepts": [
+    {
+      "uri": "http://www.wikidata.org/entity/Q75687",
+      "notation": [
+        "Q75687"
+      ],
+      "prefLabel": {
+        "en": "Apple Macintosh"
+      },
+      "occurrences": [
+        {
+          "relation": "http://www.wikidata.org/entity/P31",
+          "count": 2
+        },
+        {
+          "relation": "http://schema.org/about",
+          "count": 78
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q214276"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q488192"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q621322"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q3065317"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q3274608"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q178470",
+      "notation": [
+        "Q178470"
+      ],
+      "prefLabel": {
+        "en": "netbook"
+      },
+      "occurrences": [
+        {
+          "relation": "http://www.wikidata.org/entity/P31",
+          "count": 3
+        },
+        {
+          "relation": "http://schema.org/about",
+          "count": 47
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q221952"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q376415"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q2464766"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q4811042"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q4811940"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q6523126"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q7538061"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q7828576"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q11112964"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q28132320"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q185185",
+      "notation": [
+        "Q185185"
+      ],
+      "prefLabel": {
+        "en": "home theater PC"
+      },
+      "occurrences": [
+        {
+          "relation": "http://www.wikidata.org/entity/P31",
+          "count": 4
+        },
+        {
+          "relation": "http://schema.org/about",
+          "count": 22
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q955368"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q7682528"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q185270",
+      "notation": [
+        "Q185270"
+      ],
+      "prefLabel": {
+        "en": "gaming computer"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 10
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q185330",
+      "notation": [
+        "Q185330"
+      ],
+      "prefLabel": {
+        "en": "nettop"
+      },
+      "occurrences": [
+        {
+          "relation": "http://www.wikidata.org/entity/P31",
+          "count": 1
+        },
+        {
+          "relation": "http://schema.org/about",
+          "count": 22
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q201652",
+      "notation": [
+        "Q201652"
+      ],
+      "prefLabel": {
+        "en": "Apple II series"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 37
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q473708"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q1331418"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q1761667"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q3321571"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q202712",
+      "notation": [
+        "Q202712"
+      ],
+      "prefLabel": {
+        "en": "IBM Personal Computer"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 48
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q751046"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q34349"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q1653064"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q12745427"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q206190",
+      "notation": [
+        "Q206190"
+      ],
+      "prefLabel": {
+        "en": "pocket computer"
+      },
+      "occurrences": [
+        {
+          "relation": "http://www.wikidata.org/entity/P31",
+          "count": 3
+        },
+        {
+          "relation": "http://schema.org/about",
+          "count": 8
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q16917685"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q629703"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q821794"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q24907851"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q214276",
+      "notation": [
+        "Q214276"
+      ],
+      "prefLabel": {
+        "en": "MacBook Pro"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 43
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q75687"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q1183543"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q3065317"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q28850392"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q219164",
+      "notation": [
+        "Q219164"
+      ],
+      "prefLabel": {
+        "en": "zombie"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 26
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q221952",
+      "notation": [
+        "Q221952"
+      ],
+      "prefLabel": {
+        "en": "ASUS Eee PC"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 33
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q178470"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q284518",
+      "notation": [
+        "Q284518"
+      ],
+      "prefLabel": {
+        "en": "IBM Personal System/2"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 23
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q7120560"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q12745432"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q300319",
+      "notation": [
+        "Q300319"
+      ],
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q306273",
+      "notation": [
+        "Q306273"
+      ],
+      "prefLabel": {
+        "en": "eMac"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 21
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q56155"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q308871",
+      "notation": [
+        "Q308871"
+      ],
+      "prefLabel": {
+        "en": "Mac Mini"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 31
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q56155"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q371482",
+      "notation": [
+        "Q371482"
+      ],
+      "prefLabel": {
+        "en": "Apple Lisa"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 33
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q376415",
+      "notation": [
+        "Q376415"
+      ],
+      "prefLabel": {
+        "en": "Acer Aspire One"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 18
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q178470"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q420769",
+      "notation": [
+        "Q420769"
+      ],
+      "prefLabel": {
+        "en": "Apple III"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 25
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q428888",
+      "notation": [
+        "Q428888"
+      ],
+      "prefLabel": {
+        "en": "Power Mac G4 Cube"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 12
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q2525309"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q478833",
+      "notation": [
+        "Q478833"
+      ],
+      "prefLabel": {
+        "en": "Amstrad PCW"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 14
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q8197850"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q486053",
+      "notation": [
+        "Q486053"
+      ],
+      "prefLabel": {
+        "en": "MacBook"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 43
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q3065317"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q60253364"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q60253747"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q488192",
+      "notation": [
+        "Q488192"
+      ],
+      "prefLabel": {
+        "en": "MacBook Air"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 38
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q75687"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q3065317"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q507729",
+      "notation": [
+        "Q507729"
+      ],
+      "prefLabel": {
+        "en": "Power Macintosh 5260"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 3
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q56155"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q525357",
+      "notation": [
+        "Q525357"
+      ],
+      "prefLabel": {
+        "en": "Xerox 820"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 4
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q56155"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q585264",
+      "notation": [
+        "Q585264"
+      ],
+      "prefLabel": {
+        "en": "PowerBook 100"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 14
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q602253",
+      "notation": [
+        "Q602253"
+      ],
+      "prefLabel": {
+        "en": "Sinclair QL"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 22
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q621317",
+      "notation": [
+        "Q621317"
+      ],
+      "prefLabel": {
+        "en": "PowerBook"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 20
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q621319"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q621319",
+      "notation": [
+        "Q621319"
+      ],
+      "prefLabel": {
+        "en": "PowerBook G3"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 7
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q621317"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q638032"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q638083"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q3400876"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q3909631"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q621322",
+      "notation": [
+        "Q621322"
+      ],
+      "prefLabel": {
+        "en": "Power Macintosh"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 20
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q75687"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q2525309"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q5512726"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q7889212"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q621681",
+      "notation": [
+        "Q621681"
+      ],
+      "prefLabel": {
+        "en": "ultra-mobile PC"
+      },
+      "occurrences": [
+        {
+          "relation": "http://www.wikidata.org/entity/P31",
+          "count": 3
+        },
+        {
+          "relation": "http://schema.org/about",
+          "count": 20
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q16917685"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q7943483"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q629703",
+      "notation": [
+        "Q629703"
+      ],
+      "prefLabel": {
+        "en": "Sharp PC-1211"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 5
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q206190"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q638032",
+      "notation": [
+        "Q638032"
+      ],
+      "prefLabel": {
+        "en": "PowerBook G3 Series"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 2
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q621319"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q638083",
+      "notation": [
+        "Q638083"
+      ],
+      "prefLabel": {
+        "en": "PowerBook G3 Series (Wallstreet Series II)"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q621319"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q660845",
+      "notation": [
+        "Q660845"
+      ],
+      "prefLabel": {
+        "en": "Atari Portfolio"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 17
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q18154878"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q702904",
+      "notation": [
+        "Q702904"
+      ],
+      "prefLabel": {
+        "en": "HTC Universal"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 6
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q29758"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q751046",
+      "notation": [
+        "Q751046"
+      ],
+      "prefLabel": {
+        "en": "IBM PC compatible"
+      },
+      "occurrences": [
+        {
+          "relation": "http://www.wikidata.org/entity/P31",
+          "count": 1
+        },
+        {
+          "relation": "http://schema.org/about",
+          "count": 26
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q202712"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q16645729"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q762098",
+      "notation": [
+        "Q762098"
+      ],
+      "prefLabel": {
+        "en": "Commodore 900"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 7
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q56155"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q821794",
+      "notation": [
+        "Q821794"
+      ],
+      "prefLabel": {
+        "en": "Sharp PC-1500"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 6
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q206190"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q858241",
+      "notation": [
+        "Q858241"
+      ],
+      "prefLabel": {
+        "en": "Nokia N900"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 22
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q1140685"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q861126",
+      "notation": [
+        "Q861126"
+      ],
+      "prefLabel": {
+        "en": "ThinkPad"
+      },
+      "occurrences": [
+        {
+          "relation": "http://www.wikidata.org/entity/P31",
+          "count": 1
+        },
+        {
+          "relation": "http://schema.org/about",
+          "count": 24
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q7784450"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q7784453"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q7784454"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q7784456"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q11251028"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q11251031"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q955368",
+      "notation": [
+        "Q955368"
+      ],
+      "prefLabel": {
+        "en": "Commodore CDTV"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 23
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q185185"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q17589470"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q987386",
+      "notation": [
+        "Q987386"
+      ],
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q56155"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q987388",
+      "notation": [
+        "Q987388"
+      ],
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q56155"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q987389",
+      "notation": [
+        "Q987389"
+      ],
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q56155"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q1012804",
+      "notation": [
+        "Q1012804"
+      ],
+      "prefLabel": {
+        "en": "Dell Latitude"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 6
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q1037185",
+      "notation": [
+        "Q1037185"
+      ],
+      "prefLabel": {
+        "en": "HP 95LX"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 7
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q18154878"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q1052603",
+      "notation": [
+        "Q1052603"
+      ],
+      "prefLabel": {
+        "en": "PowerBook 140"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 4
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q1052728",
+      "notation": [
+        "Q1052728"
+      ],
+      "prefLabel": {
+        "en": "PowerBook Duo"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 5
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q1115655"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q1115655",
+      "notation": [
+        "Q1115655"
+      ],
+      "prefLabel": {
+        "en": "subnotebook"
+      },
+      "occurrences": [
+        {
+          "relation": "http://www.wikidata.org/entity/P31",
+          "count": 1
+        },
+        {
+          "relation": "http://schema.org/about",
+          "count": 16
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q13931"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q1052728"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q1995092"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q3107089"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q3400869"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q4040287"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q4040288"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q4049543"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q4052511"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q8068846"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q12058579"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q1115962",
+      "notation": [
+        "Q1115962"
+      ],
+      "prefLabel": {
+        "en": "Commodore LCD"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 7
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q1140685",
+      "notation": [
+        "Q1140685"
+      ],
+      "prefLabel": {
+        "en": "Mobile Internet device"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 17
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q17297961"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q858241"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q1141670",
+      "notation": [
+        "Q1141670"
+      ],
+      "prefLabel": {
+        "en": "IBM Personal Computer/AT"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 18
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q1317341"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q1151150",
+      "notation": [
+        "Q1151150"
+      ],
+      "prefLabel": {
+        "en": "HP 200LX"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 10
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q18154878"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q1155069",
+      "notation": [
+        "Q1155069"
+      ],
+      "prefLabel": {
+        "en": "IBM PCjr"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 19
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q1172276",
+      "notation": [
+        "Q1172276"
+      ],
+      "prefLabel": {
+        "en": "Datapoint 2200"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 13
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q1184372",
+      "notation": [
+        "Q1184372"
+      ],
+      "prefLabel": {
+        "en": "Dell Adamo"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 4
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q1258213",
+      "notation": [
+        "Q1258213"
+      ],
+      "prefLabel": {
+        "en": "all-in-one PC"
+      },
+      "occurrences": [
+        {
+          "relation": "http://www.wikidata.org/entity/P31",
+          "count": 1
+        },
+        {
+          "relation": "http://schema.org/about",
+          "count": 3
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q58408251"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q1317341",
+      "notation": [
+        "Q1317341"
+      ],
+      "prefLabel": {
+        "en": "Sega TeraDrive"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 12
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q1141670"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q1331418",
+      "notation": [
+        "Q1331418"
+      ],
+      "prefLabel": {
+        "en": "Elk Cloner"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 14
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q201652"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q1347728",
+      "notation": [
+        "Q1347728"
+      ],
+      "prefLabel": {
+        "en": "Epson PX-8 Geneva"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 6
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q1449375",
+      "notation": [
+        "Q1449375"
+      ],
+      "prefLabel": {
+        "en": "IBM 5120"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 5
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q1544168",
+      "notation": [
+        "Q1544168"
+      ],
+      "prefLabel": {
+        "en": "ThinkCentre"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 5
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q56155"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q1646275",
+      "notation": [
+        "Q1646275"
+      ],
+      "prefLabel": {
+        "en": "Tiki 100"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 5
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q56155"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q1653064",
+      "notation": [
+        "Q1653064"
+      ],
+      "prefLabel": {
+        "en": "IBM 3270 PC"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 3
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q202712"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q1653078",
+      "notation": [
+        "Q1653078"
+      ],
+      "prefLabel": {
+        "en": "IBM 5550"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 4
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q1670087",
+      "notation": [
+        "Q1670087"
+      ],
+      "prefLabel": {
+        "en": "PowerBook G4"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 12
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q1761667",
+      "notation": [
+        "Q1761667"
+      ],
+      "prefLabel": {
+        "en": "Apple IIe"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 10
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q201652"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q1777165",
+      "notation": [
+        "Q1777165"
+      ],
+      "prefLabel": {
+        "en": "ABC 1600"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 4
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q1882848",
+      "notation": [
+        "Q1882848"
+      ],
+      "prefLabel": {
+        "en": "Macintosh SE"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 14
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q56155"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q1983029",
+      "notation": [
+        "Q1983029"
+      ],
+      "prefLabel": {
+        "en": "Galeb"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 6
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q1995092",
+      "notation": [
+        "Q1995092"
+      ],
+      "prefLabel": {
+        "en": "CloudBook"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 4
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q1115655"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q2043887",
+      "notation": [
+        "Q2043887"
+      ],
+      "prefLabel": {
+        "en": "PC 1715"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 4
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q56155"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q2107044",
+      "notation": [
+        "Q2107044"
+      ],
+      "prefLabel": {
+        "en": "Power Macintosh G3"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 9
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q56155"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q2299497",
+      "notation": [
+        "Q2299497"
+      ],
+      "prefLabel": {
+        "en": "Tandy 1000"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 7
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q2318886",
+      "notation": [
+        "Q2318886"
+      ],
+      "prefLabel": {
+        "en": "Commodore Educator 64"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 6
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q2358505",
+      "notation": [
+        "Q2358505"
+      ],
+      "prefLabel": {
+        "en": "ABC 800"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 5
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q2361422",
+      "notation": [
+        "Q2361422"
+      ],
+      "prefLabel": {
+        "en": "Pentagon"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 5
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q2379925",
+      "notation": [
+        "Q2379925"
+      ],
+      "prefLabel": {
+        "en": "FM-7"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 11
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q2444166",
+      "notation": [
+        "Q2444166"
+      ],
+      "prefLabel": {
+        "en": "IMKO-1"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 5
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q2464766",
+      "notation": [
+        "Q2464766"
+      ],
+      "prefLabel": {
+        "en": "MSI Wind Netbook"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 10
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q178470"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q2477770",
+      "notation": [
+        "Q2477770"
+      ],
+      "prefLabel": {
+        "en": "Ultrabook"
+      },
+      "occurrences": [
+        {
+          "relation": "http://www.wikidata.org/entity/P31",
+          "count": 3
+        },
+        {
+          "relation": "http://schema.org/about",
+          "count": 28
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q8069022"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q17042408"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q17048980"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q2525309",
+      "notation": [
+        "Q2525309"
+      ],
+      "prefLabel": {
+        "en": "Power Mac G4"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 11
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q621322"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q428888"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q2568933",
+      "notation": [
+        "Q2568933"
+      ],
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q68"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q2635917",
+      "notation": [
+        "Q2635917"
+      ],
+      "prefLabel": {
+        "en": "Lemote"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 7
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q2720833",
+      "notation": [
+        "Q2720833"
+      ],
+      "prefLabel": {
+        "en": "iMac"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 9
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q56155"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q2881951",
+      "notation": [
+        "Q2881951"
+      ],
+      "prefLabel": {
+        "en": "Apricot PC"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 3
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q3065317",
+      "notation": [
+        "Q3065317"
+      ],
+      "prefLabel": {
+        "en": "MacBook"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 5
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q75687"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q431289"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q214276"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q486053"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q488192"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q3107089",
+      "notation": [
+        "Q3107089"
+      ],
+      "prefLabel": {
+        "en": "Palm Foleo"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 6
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q1115655"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q3229508",
+      "notation": [
+        "Q3229508"
+      ],
+      "prefLabel": {
+        "en": "IdeaPad"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 5
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q3962",
+      "notation": [
+        "Q3962"
+      ],
+      "prefLabel": {
+        "en": "laptop"
+      },
+      "occurrences": [
+        {
+          "relation": "http://www.wikidata.org/entity/P31",
+          "count": 25
+        },
+        {
+          "relation": "http://schema.org/about",
+          "count": 94
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q16917685"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q178470"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q214276"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q486053"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q585264"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q621681"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q861126"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q1012804"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q1052603"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q1115655"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q1115962"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q1184372"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q1347728"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q1670087"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q2477770"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q3229508"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q3400846"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q3400850"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q3400860"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q3400867"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q4033246"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q4673106"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q4673109"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q4673125"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q4941457"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q5155599"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q5635660"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q5635725"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q5732159"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q6953430"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q7111877"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q7410515"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q7490296"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q7784455"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q7827638"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q7827640"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q7978710"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q13597976"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q15781084"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q16927832"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q17050695"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q19850130"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q21414446"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q39054213"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q42172800"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q44930309"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q48989840"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q51954707"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q53618688"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q13931",
+      "notation": [
+        "Q13931"
+      ],
+      "prefLabel": {
+        "en": "OLPC XO-1"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 30
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q1115655"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q16338",
+      "notation": [
+        "Q16338"
+      ],
+      "prefLabel": {
+        "en": "personal computer"
+      },
+      "occurrences": [
+        {
+          "relation": "http://www.wikidata.org/entity/P31",
+          "count": 50
+        },
+        {
+          "relation": "http://schema.org/about",
+          "count": 89
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q68"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q18981"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q41357"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q56155"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q75687"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q185185"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q185270"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q185330"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q201652"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q206190"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q219164"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q284518"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q300319"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q371482"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q420769"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q478833"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q602253"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q621317"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q751046"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q1141670"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q1155069"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q1172276"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q1258213"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q1449375"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q1653078"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q1777165"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q1983029"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q2299497"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q2318886"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q2358505"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q2361422"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q2379925"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q2444166"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q2568933"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q2635917"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q2881951"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q3300214"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q3869483"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q4053506"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q4161038"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q4530997"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q4674551"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q5227168"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q5421373"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q5694297"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q7093118"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q7827639"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q7852076"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q8189374"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q9584199"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q12744670"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q12745415"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q12745426"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q17297961"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q18154878"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q20715996"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q28446313"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q18981",
+      "notation": [
+        "Q18981"
+      ],
+      "prefLabel": {
+        "en": "Apple I"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 46
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q29758",
+      "notation": [
+        "Q29758"
+      ],
+      "prefLabel": {
+        "en": "Pocket PC"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 29
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q17297961"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q702904"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q3435714"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q3436049"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q16986505"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q34349",
+      "notation": [
+        "Q34349"
+      ],
+      "prefLabel": {
+        "en": "IBM Personal Computer XT"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 18
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q202712"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q41357",
+      "notation": [
+        "Q41357"
+      ],
+      "prefLabel": {
+        "en": "Acorn Archimedes"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 21
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q473708"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q56155",
+      "notation": [
+        "Q56155"
+      ],
+      "prefLabel": {
+        "en": "desktop computer"
+      },
+      "occurrences": [
+        {
+          "relation": "http://www.wikidata.org/entity/P31",
+          "count": 6
+        },
+        {
+          "relation": "http://schema.org/about",
+          "count": 45
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q306273"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q308871"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q507729"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q525357"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q762098"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q987386"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q987388"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q987389"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q1544168"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q1646275"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q1882848"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q2043887"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q2107044"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q2720833"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q3400912"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q3400919"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q3400920"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q5155590"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q5323810"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q27580119"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q30139736"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q36398063",
+      "notation": [
+        "Q36398063"
+      ],
+      "prefLabel": {
+        "en": "Asus Eeebook X205TA"
+      },
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q39054213"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q39054213",
+      "notation": [
+        "Q39054213"
+      ],
+      "prefLabel": {
+        "en": "Asus EeeBook"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q36398063"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q41794797",
+      "notation": [
+        "Q41794797"
+      ],
+      "prefLabel": {
+        "en": "Eve V"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q68"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q13597976"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q42172800",
+      "notation": [
+        "Q42172800"
+      ],
+      "prefLabel": {
+        "en": "Surface Book 2"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 4
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q44930309",
+      "notation": [
+        "Q44930309"
+      ],
+      "prefLabel": {
+        "en": "ThinkPad X270"
+      },
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q48989840",
+      "notation": [
+        "Q48989840"
+      ],
+      "prefLabel": {
+        "en": "LG Gram"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 2
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q51954707",
+      "notation": [
+        "Q51954707"
+      ],
+      "prefLabel": {
+        "en": "ThinkPad X200"
+      },
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q51954782",
+      "notation": [
+        "Q51954782"
+      ],
+      "prefLabel": {
+        "en": "ThinkPad X200 series"
+      },
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q7784456"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q53618688",
+      "notation": [
+        "Q53618688"
+      ],
+      "prefLabel": {
+        "en": "ThinkPad 800 series"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q58408251",
+      "notation": [
+        "Q58408251"
+      ],
+      "prefLabel": {
+        "en": "Surface Studio 2"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 2
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q1258213"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q58455051",
+      "notation": [
+        "Q58455051"
+      ],
+      "prefLabel": {
+        "en": "Surface Pro 6"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 2
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q13597976"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q60253364",
+      "notation": [
+        "Q60253364"
+      ],
+      "prefLabel": {
+        "en": "MacBook (Original)"
+      },
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q486053"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q60253747",
+      "notation": [
+        "Q60253747"
+      ],
+      "prefLabel": {
+        "en": "MacBook (Unibody)"
+      },
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q486053"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q3274608",
+      "notation": [
+        "Q3274608"
+      ],
+      "prefLabel": {
+        "en": "Macintosh 68k"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 2
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q75687"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q3300214",
+      "notation": [
+        "Q3300214"
+      ],
+      "prefLabel": {
+        "en": "Kenbak-1"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 11
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q3321571",
+      "notation": [
+        "Q3321571"
+      ],
+      "prefLabel": {
+        "en": "Apple IIc Plus"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 7
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q201652"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q3400846",
+      "notation": [
+        "Q3400846"
+      ],
+      "prefLabel": {
+        "en": "PowerBook 150"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 3
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q3400850",
+      "notation": [
+        "Q3400850"
+      ],
+      "prefLabel": {
+        "en": "PowerBook 170"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 3
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q3400860",
+      "notation": [
+        "Q3400860"
+      ],
+      "prefLabel": {
+        "en": "PowerBook 3400c"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 3
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q3400867",
+      "notation": [
+        "Q3400867"
+      ],
+      "prefLabel": {
+        "en": "PowerBook Duo 210"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 3
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q3400869",
+      "notation": [
+        "Q3400869"
+      ],
+      "prefLabel": {
+        "en": "PowerBook Duo 230"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 3
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q1115655"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q3400876",
+      "notation": [
+        "Q3400876"
+      ],
+      "prefLabel": {
+        "en": "PowerBook G3 Series Lombard"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 2
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q621319"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q3400912",
+      "notation": [
+        "Q3400912"
+      ],
+      "prefLabel": {
+        "en": "Power Macintosh 4400"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 5
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q56155"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q3400919",
+      "notation": [
+        "Q3400919"
+      ],
+      "prefLabel": {
+        "en": "Power Macintosh 6200"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 4
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q56155"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q28446313",
+      "notation": [
+        "Q28446313"
+      ],
+      "prefLabel": {
+        "en": "Toshiba T1000LE"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q28850392",
+      "notation": [
+        "Q28850392"
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q214276"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q30044130",
+      "notation": [
+        "Q30044130"
+      ],
+      "prefLabel": {
+        "en": "Surface Pro (5th generation)"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 3
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q13597976"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q30139736",
+      "notation": [
+        "Q30139736"
+      ],
+      "prefLabel": {
+        "en": "iMac Pro"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 8
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q56155"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q3400920",
+      "notation": [
+        "Q3400920"
+      ],
+      "prefLabel": {
+        "en": "Power Macintosh 6100"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 4
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q56155"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q3435714",
+      "notation": [
+        "Q3435714"
+      ],
+      "prefLabel": {
+        "en": "HTC P4350"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 4
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q29758"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q3436049",
+      "notation": [
+        "Q3436049"
+      ],
+      "prefLabel": {
+        "en": "HTC Apache"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 4
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q29758"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q3869483",
+      "notation": [
+        "Q3869483"
+      ],
+      "prefLabel": {
+        "en": "PC-8000 series"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 4
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q12746158"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q16081092"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q16081158"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q3909631",
+      "notation": [
+        "Q3909631"
+      ],
+      "prefLabel": {
+        "en": "PowerBook G3 Pismo"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 2
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q621319"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q4033246",
+      "notation": [
+        "Q4033246"
+      ],
+      "prefLabel": {
+        "en": "Acer Aspire Timeline"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 2
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q4040287",
+      "notation": [
+        "Q4040287"
+      ],
+      "prefLabel": {
+        "en": "HP 2133 Mini-Note PC"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 2
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q1115655"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q4040288",
+      "notation": [
+        "Q4040288"
+      ],
+      "prefLabel": {
+        "en": "HP Mini"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 2
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q1115655"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q4049543",
+      "notation": [
+        "Q4049543"
+      ],
+      "prefLabel": {
+        "en": "Tianhua GX-1C"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 3
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q1115655"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q4049610",
+      "notation": [
+        "Q4049610"
+      ],
+      "occurrences": [
+        {
+          "relation": "http://www.wikidata.org/entity/P31",
+          "count": 1
+        },
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q17297961"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q4052511",
+      "notation": [
+        "Q4052511"
+      ],
+      "prefLabel": {
+        "en": "NanoBook"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 3
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q1115655"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q4053506",
+      "notation": [
+        "Q4053506"
+      ],
+      "prefLabel": {
+        "en": "Zenith Z-100"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 3
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q4161038",
+      "notation": [
+        "Q4161038"
+      ],
+      "prefLabel": {
+        "en": "DVK"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 3
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q4364487",
+      "notation": [
+        "Q4364487"
+      ],
+      "occurrences": [
+        {
+          "relation": "http://www.wikidata.org/entity/P31",
+          "count": 1
+        },
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q17297961"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q4530997",
+      "notation": [
+        "Q4530997"
+      ],
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q4673106",
+      "notation": [
+        "Q4673106"
+      ],
+      "prefLabel": {
+        "en": "Acer Aspire Notebook"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q4673109",
+      "notation": [
+        "Q4673109"
+      ],
+      "prefLabel": {
+        "en": "Acer Aspire Predator"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 3
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q4673125",
+      "notation": [
+        "Q4673125"
+      ],
+      "prefLabel": {
+        "en": "Acer TravelMate"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 3
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q4674551",
+      "notation": [
+        "Q4674551"
+      ],
+      "prefLabel": {
+        "en": "Acorn Communicator"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 3
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q4811042",
+      "notation": [
+        "Q4811042"
+      ],
+      "prefLabel": {
+        "en": "Astone UMPC"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 2
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q178470"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q4811940",
+      "notation": [
+        "Q4811940"
+      ],
+      "prefLabel": {
+        "en": "Asus Eee PC S101"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q178470"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q4941457",
+      "notation": [
+        "Q4941457"
+      ],
+      "prefLabel": {
+        "en": "Bondwell-2"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 3
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q5155590",
+      "notation": [
+        "Q5155590"
+      ],
+      "prefLabel": {
+        "en": "Compaq Presario 2200"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q56155"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q5155599",
+      "notation": [
+        "Q5155599"
+      ],
+      "prefLabel": {
+        "en": "Compaq Presario F700"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q5227168",
+      "notation": [
+        "Q5227168"
+      ],
+      "prefLabel": {
+        "en": "Data General-One"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 5
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q5323810",
+      "notation": [
+        "Q5323810"
+      ],
+      "prefLabel": {
+        "en": "eOne"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q56155"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q5421373",
+      "notation": [
+        "Q5421373"
+      ],
+      "prefLabel": {
+        "en": "Explorer/85"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q5512726",
+      "notation": [
+        "Q5512726"
+      ],
+      "prefLabel": {
+        "en": "G5Jam"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 13
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q621322"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q5635660",
+      "notation": [
+        "Q5635660"
+      ],
+      "prefLabel": {
+        "en": "HP EliteBook"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 3
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q5635725",
+      "notation": [
+        "Q5635725"
+      ],
+      "prefLabel": {
+        "en": "HP ProBook"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 2
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q5694297",
+      "notation": [
+        "Q5694297"
+      ],
+      "prefLabel": {
+        "en": "Heathkit H11"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q5732159",
+      "notation": [
+        "Q5732159"
+      ],
+      "prefLabel": {
+        "en": "PPC 512"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 6
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q6523126",
+      "notation": [
+        "Q6523126"
+      ],
+      "prefLabel": {
+        "en": "Lenovo IdeaPad S12"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q178470"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q6648584",
+      "notation": [
+        "Q6648584"
+      ],
+      "prefLabel": {
+        "en": "litl"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q7978710"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q6953430",
+      "notation": [
+        "Q6953430"
+      ],
+      "prefLabel": {
+        "en": "NEC UltraLite"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 2
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q7093118",
+      "notation": [
+        "Q7093118"
+      ],
+      "prefLabel": {
+        "en": "One Per Desk"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 4
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q7111877",
+      "notation": [
+        "Q7111877"
+      ],
+      "prefLabel": {
+        "en": "Outbound Laptop"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q7120560",
+      "notation": [
+        "Q7120560"
+      ],
+      "prefLabel": {
+        "en": "PS/2E"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q284518"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q7410515",
+      "notation": [
+        "Q7410515"
+      ],
+      "prefLabel": {
+        "en": "Samsung NC10"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 3
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q7490296",
+      "notation": [
+        "Q7490296"
+      ],
+      "prefLabel": {
+        "en": "Sharp Actius RD3D Notebook"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 2
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q7538061",
+      "notation": [
+        "Q7538061"
+      ],
+      "prefLabel": {
+        "en": "Skytone Alpha-400"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 2
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q178470"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q7682528",
+      "notation": [
+        "Q7682528"
+      ],
+      "prefLabel": {
+        "en": "Tandy Video Information System"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 2
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q185185"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q7784450",
+      "notation": [
+        "Q7784450"
+      ],
+      "prefLabel": {
+        "en": "ThinkPad T Series"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 5
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q861126"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q7784453",
+      "notation": [
+        "Q7784453"
+      ],
+      "prefLabel": {
+        "en": "ThinkPad X1 Carbon"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 3
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q861126"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q7784454",
+      "notation": [
+        "Q7784454"
+      ],
+      "prefLabel": {
+        "en": "ThinkPad W Series"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 2
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q861126"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q7784455",
+      "notation": [
+        "Q7784455"
+      ],
+      "prefLabel": {
+        "en": "ThinkPad Z60m"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q7784456",
+      "notation": [
+        "Q7784456"
+      ],
+      "prefLabel": {
+        "en": "ThinkPad X Series"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 3
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q861126"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q51954782"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q7827638",
+      "notation": [
+        "Q7827638"
+      ],
+      "prefLabel": {
+        "en": "Toshiba Satellite"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 2
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q7827639",
+      "notation": [
+        "Q7827639"
+      ],
+      "prefLabel": {
+        "en": "Toshiba T1000"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 4
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q7827640",
+      "notation": [
+        "Q7827640"
+      ],
+      "prefLabel": {
+        "en": "Toshiba T3100"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 2
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q7828576",
+      "notation": [
+        "Q7828576"
+      ],
+      "prefLabel": {
+        "en": "Touch Book"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 2
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q178470"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q7852076",
+      "notation": [
+        "Q7852076"
+      ],
+      "prefLabel": {
+        "en": "Tulip System-1"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 2
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q7889212",
+      "notation": [
+        "Q7889212"
+      ],
+      "prefLabel": {
+        "en": "Power Macintosh G3"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 3
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q621322"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q7943483",
+      "notation": [
+        "Q7943483"
+      ],
+      "prefLabel": {
+        "en": "Vulcan FlipStart"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q621681"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q7978710",
+      "notation": [
+        "Q7978710"
+      ],
+      "prefLabel": {
+        "en": "Webbook"
+      },
+      "occurrences": [
+        {
+          "relation": "http://www.wikidata.org/entity/P31",
+          "count": 1
+        },
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q68"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q6648584"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q8068846",
+      "notation": [
+        "Q8068846"
+      ],
+      "prefLabel": {
+        "en": "Zelybron Micro Nina"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q1115655"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q8069022",
+      "notation": [
+        "Q8069022"
+      ],
+      "prefLabel": {
+        "en": "Zenbook"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 11
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q2477770"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q8189374",
+      "notation": [
+        "Q8189374"
+      ],
+      "prefLabel": {
+        "en": "homebuilt computer"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 4
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q8197850",
+      "notation": [
+        "Q8197850"
+      ],
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 2
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q478833"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q9584199",
+      "notation": [
+        "Q9584199"
+      ],
+      "prefLabel": {
+        "en": "Advance 86"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 3
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q11112964",
+      "notation": [
+        "Q11112964"
+      ],
+      "prefLabel": {
+        "en": "Lenovo IdeaPad S100"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 3
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q178470"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q11251028",
+      "notation": [
+        "Q11251028"
+      ],
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 2
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q861126"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q11251031",
+      "notation": [
+        "Q11251031"
+      ],
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 2
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q861126"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q12058579",
+      "notation": [
+        "Q12058579"
+      ],
+      "prefLabel": {
+        "en": "Gigabyte M912"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 2
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q1115655"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q12744670",
+      "notation": [
+        "Q12744670"
+      ],
+      "prefLabel": {
+        "en": "Bandai Gundam RX-78"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q12745415",
+      "notation": [
+        "Q12745415"
+      ],
+      "prefLabel": {
+        "en": "Holborn 9100"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 2
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q12745426",
+      "notation": [
+        "Q12745426"
+      ],
+      "prefLabel": {
+        "en": "IBM PC XT 286"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q12745427",
+      "notation": [
+        "Q12745427"
+      ],
+      "prefLabel": {
+        "en": "IBM PC Model 5150"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q202712"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q12745432",
+      "notation": [
+        "Q12745432"
+      ],
+      "prefLabel": {
+        "en": "IBM PS/2 Model 25"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q284518"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q12746158",
+      "notation": [
+        "Q12746158"
+      ],
+      "prefLabel": {
+        "en": "PC-8001mkII"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3869483"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q13597976",
+      "notation": [
+        "Q13597976"
+      ],
+      "prefLabel": {
+        "en": "2-in-1 PC"
+      },
+      "occurrences": [
+        {
+          "relation": "http://www.wikidata.org/entity/P31",
+          "count": 4
+        },
+        {
+          "relation": "http://schema.org/about",
+          "count": 7
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q155972"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q15057455"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q17042552"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q17511543"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q20641702"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q20648123"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q21072426"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q22908487"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q23038806"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q30044130"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q41794797"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q58455051"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q15057455",
+      "notation": [
+        "Q15057455"
+      ],
+      "prefLabel": {
+        "en": "Microsoft Surface Pro 2"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 6
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q13597976"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q15781084",
+      "notation": [
+        "Q15781084"
+      ],
+      "prefLabel": {
+        "en": "ATIV Book 9"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 3
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q16081092",
+      "notation": [
+        "Q16081092"
+      ],
+      "prefLabel": {
+        "en": "NEC PC-8001"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3869483"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q16081158",
+      "notation": [
+        "Q16081158"
+      ],
+      "prefLabel": {
+        "en": "NEC PC-8001mkIISR"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3869483"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q16645729",
+      "notation": [
+        "Q16645729"
+      ],
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 2
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q751046"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q16927832",
+      "notation": [
+        "Q16927832"
+      ],
+      "prefLabel": {
+        "en": "HP ZBook"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q16986505",
+      "notation": [
+        "Q16986505"
+      ],
+      "prefLabel": {
+        "en": "P535"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 2
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q29758"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q17042408",
+      "notation": [
+        "Q17042408"
+      ],
+      "prefLabel": {
+        "en": "Lenovo IdeaPad Yoga 13"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q2477770"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q17042552",
+      "notation": [
+        "Q17042552"
+      ],
+      "prefLabel": {
+        "en": "Microsoft Surface Pro 3"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 6
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q13597976"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q17048980",
+      "notation": [
+        "Q17048980"
+      ],
+      "prefLabel": {
+        "en": "ThinkPad Yoga"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q2477770"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q17050695",
+      "notation": [
+        "Q17050695"
+      ],
+      "prefLabel": {
+        "en": "Lenovo Yoga 2 Pro"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 3
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q17297961",
+      "notation": [
+        "Q17297961"
+      ],
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 2
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q155972"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q29758"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q1140685"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q4049610"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q4364487"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q17511543",
+      "notation": [
+        "Q17511543"
+      ],
+      "prefLabel": {
+        "en": "Surface Pro"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 6
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q13597976"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q18154878",
+      "notation": [
+        "Q18154878"
+      ],
+      "prefLabel": {
+        "en": "Palmtop PC"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 4
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ],
+      "narrower": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q660845"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q1037185"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q1151150"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q19850130",
+      "notation": [
+        "Q19850130"
+      ],
+      "prefLabel": {
+        "en": "MacBook (2015 version)"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 13
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q20641702",
+      "notation": [
+        "Q20641702"
+      ],
+      "prefLabel": {
+        "en": "Surface 3"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 5
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q13597976"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q20648123",
+      "notation": [
+        "Q20648123"
+      ],
+      "prefLabel": {
+        "en": "Surface Pro 4"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 6
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q13597976"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q20715996",
+      "notation": [
+        "Q20715996"
+      ],
+      "prefLabel": {
+        "en": "ENER 1000"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q16338"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q21072426",
+      "notation": [
+        "Q21072426"
+      ],
+      "prefLabel": {
+        "en": "Surface Book"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 7
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q13597976"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q21414446",
+      "notation": [
+        "Q21414446"
+      ],
+      "prefLabel": {
+        "en": "ThinkPad X230"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q3962"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q22908487",
+      "notation": [
+        "Q22908487"
+      ],
+      "prefLabel": {
+        "en": "Samsung Galaxy TabPro S"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 2
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q13597976"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q23038806",
+      "notation": [
+        "Q23038806"
+      ],
+      "prefLabel": {
+        "en": "Huawei MateBook"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 3
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q13597976"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q24907851",
+      "notation": [
+        "Q24907851"
+      ],
+      "prefLabel": {
+        "en": "Ockel Sirius B"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 1
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q206190"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q27580119",
+      "notation": [
+        "Q27580119"
+      ],
+      "prefLabel": {
+        "en": "Surface Studio"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 9
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q56155"
+        }
+      ]
+    },
+    {
+      "uri": "http://www.wikidata.org/entity/Q28132320",
+      "notation": [
+        "Q28132320"
+      ],
+      "prefLabel": {
+        "en": "Pine64"
+      },
+      "occurrences": [
+        {
+          "relation": "http://schema.org/about",
+          "count": 4
+        }
+      ],
+      "broader": [
+        {
+          "uri": "http://www.wikidata.org/entity/Q178470"
+        },
+        {
+          "uri": "http://www.wikidata.org/entity/Q944780"
+        }
+      ]
+    }
+  ]
+}
